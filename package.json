@@ -1,7 +1,7 @@
 {
   "name": "@kindpanda/promisify-socket",
   "description": "Socket event as async function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Julien Tilap LA VINH <jlavinh@gmail.com>",
   "main": "build/index.js",
