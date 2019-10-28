@@ -10,7 +10,7 @@
     "url": "https://github.com/kindpanda/promisify-socket"
   },
   "engines": {
-    "node": "^10.15.3",
+    "node": "*",
     "yarn": ">= 0.18.0"
   },
   "scripts": {
